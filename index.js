@@ -188,4 +188,4 @@ function removeEveryOther(arr) {
 }
 
 
-console.log(removeEveryOther(['Hello', 'Greet', 'Hello again']));
+console.log(removeEveryOther(['Hello', 'Greet', 'Hello again', 'Hi']));
